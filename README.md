@@ -1,5 +1,6 @@
 Default
-<img align="right" width="400" height="400" src="https://i.imgur.com/plJGnCb.gif">
+<img align="right" width="400" height="400" src=https://user-images.githubusercontent.com/57276138/174632411-c8fe9dc1-9a92-48ea-bb75-25e9fe4d1423.gif>
+
 
 # Welcome!
 
