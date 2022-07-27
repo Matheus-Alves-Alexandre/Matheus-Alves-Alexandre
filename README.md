@@ -10,7 +10,9 @@ sociable, focused, communicative, creative. I'm a javaScript lover.
 I'm good with Nodejs, typeScript and react, and always looking for new libraries to improve myself. 
 I am prepared to do any project, and overcome any challenge that comes my way.
 
-
+<br/>
+<br/>
+<br/>
 
 
 
